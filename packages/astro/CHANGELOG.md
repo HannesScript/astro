@@ -1,5 +1,11 @@
 # astro
 
+## 5.1.3
+
+### Patch Changes
+
+- [#12827](https://github.com/withastro/astro/pull/12827) [`7b5dc6f`](https://github.com/withastro/astro/commit/7b5dc6f0f1fbb825f52cd587aa1f7d21d731b3de) Thanks [@sinskiy](https://github.com/sinskiy)! - Fixes an issue when crawlers try to index Server Islands thinking that Server Islands are pages
+
 ## 5.1.2
 
 ### Patch Changes
